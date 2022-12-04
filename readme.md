@@ -1,3 +1,4 @@
+
 ## Articles
 
 - [Introduction to Web and HTML](https://ankitdevelops.hashnode.dev/introduction-to-web-and-html)
@@ -10,3 +11,8 @@
 ## Projects
 
 - [Project 01](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2001)
+- [Project 02](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2002)
+- [Project 03](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2003 )
+- [Project 04](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2004)
+- [Project 05](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2005)
+- [Project 06](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2006)
