@@ -16,3 +16,4 @@
 - [Project 04](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2004)
 - [Project 05](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2005)
 - [Project 06](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2006)
+- [Project 07 - vscode](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2007_vscode_clone_tailwind)
