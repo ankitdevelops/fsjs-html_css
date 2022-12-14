@@ -19,6 +19,7 @@
 - [Project 05](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2005)
 - [Project 06](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2006)
 - [Project 07 - vscode](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2007_vscode_clone_tailwind)
+- [Project 08 Credit Card Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2008_Credit%20Card%20Landing%20Page)
 
 
 ### [Live Preview](https://fsjs-assignment.netlify.app/)
