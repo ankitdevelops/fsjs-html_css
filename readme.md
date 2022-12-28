@@ -23,6 +23,7 @@
 - [Project 09 Hosting Site Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2009_Hosting%20Site%20Landing%20Page)
 - [Project 10 Gaming Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2010_Gaming%20Landing%20Page)
 - [Project 11 Real Estate Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2011_Real%20Estate%20Landing%20Page)
+- [Project 12 Beats Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2012_Beats%20Landing%20Page)
 
 
 ### [Live Preview](https://fsjs-assignment.netlify.app/)
